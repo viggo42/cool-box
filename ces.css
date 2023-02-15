@@ -1,0 +1,18 @@
+html {
+    font-family: sans-serif;
+  } 
+  p {
+    width: 200px;
+    height: 200px;
+    font-size: 17px;
+    margin-left: auto; 
+    margin-right: auto;
+    border: 1px solid rgb(2, 172, 172); 
+    text-align: center;
+    border-radius: 25px;
+    text-shadow: 1px 1px black;
+    box-shadow: 10px 5px 5px black;
+    line-height: 180px;
+    background-color: red;
+    background-image: linear-gradient (to bottom right, transparent, rgba (0, 0, 0, 0.8) 90%) ;
+  }
